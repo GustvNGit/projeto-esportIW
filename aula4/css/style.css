@@ -14,7 +14,7 @@ a{
 .header{
     background-color: crimson;
     color: #f4f4f9;
-    padding: 15px;
+    padding: 5px;
     font-size: 25px;
     display: flex;
     flex-wrap: wrap;
@@ -23,18 +23,32 @@ a{
 }
 .menu{
     display: flex;
-    margin-left: 20px;
+    margin-left: 25px;
 }
 .menu a{
     display: block;
+    position: relative;
     padding: 10px;
-    margin-top: 80px;
+  
 }
 
+
 .section1{
-    padding: 270px;
+    padding: 70px;
     background-color: #fff;
+    display: flex;
+     
 }
+.txtintr{
+    font-size: 26px;
+    text-align: justify;
+}
+.img{
+    margin-left: 80px;
+    display: flex;
+  
+}
+
 .section2{
     padding: 170px;
     background-color: #f4f4f9;
