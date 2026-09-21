@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul, li p{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.header{
+    background-color: crimson;
+    color: #f4f4f9;
+    padding: 5px;
+    font-size: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    margin-left: 25px;
+}
+.menu a{
+    display: block;
+    position: relative;
+    padding: 10px;
+  
+}
+.section1{
+    padding: 50px;
+    background-color: #fff;
+    display: flex;
+     
+}
+.txtintr{
+    font-size: 20px;
+    text-align: justify;
+}
+.img{
+    margin-left: 80px;
+    display: flex;
+  
+}
+.section2{
+    padding: 20px;
+    background-color: #f4f4f9;
+    font-size: 20px;
+}
+.blocos {
+    display: flex;
+    font-size: 20px;
+}
+.section2 ul h3{
+    background-color: #fff;
+    margin-left: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+.section3{
+    padding: 50px;
+    background-color: #fff;
+    font-size: 20px;
+}
+.blocopr {
+    display: flex;
+}
+.section3 a{
+    background-color: #dadadf;
+    color: black;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+.sessao1{
+    display: flex;
+}
+.linha-vertical {
+border-left: 2px solid #ccc; 
+height: 940px; 
+margin-left: 30px;
+}
+.modais{
+    font-size: 20px;
+    padding: 15px;
+}
+.modais h5{
+    background-color: #ccc;
+    padding: 10px;
+    padding-right: 210px;
+    color: gray;
+}
+.modais p{
+    padding: 10px;
+    font-size: 24px;
+}
+.projs li{
+    background-color: #ccc;
+    padding: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.sessao2{
+    padding: 45px;
+    background-color: #dadadf;
+    display: flex;
+}
+
+.secssaoun{
+    background-color: #f4f4f9;
+    padding: 100px;
+    display: flex;
+}
+.inst{
+    background-color: #fff;
+    padding: 60px;
+    font-size: 20px;
+}
+.inst a{
+    background-color: crimson;
+    color: #dadadf;
+    padding: 7px;
+}
+.block{
+    background-color: crimson;
+    color: #dadadf;
+    padding: 90px;
+    font-size: 25px;
+}
+.block label{
+    font-size: 20px;
+}
+
+footer{
+    background-color: black;
+    color: #f4f4f9;
+    padding: 10px;
+    text-decoration: solid;
+}
+footer a{
+    background-color: #dadadf;
+    color: black;
+    padding: 7px;
+}
+
